@@ -15,7 +15,7 @@ body {
   max-width: 420px;
 }
 
-/* ----- FORM STYLING ----- */
+
 .form-box {
   background: #ffffff;
   padding: 25px;
@@ -78,7 +78,6 @@ button:hover {
   background: #26734d;
 }
 
-/* ----- ID CARD STYLING ----- */
 .id-card {
   width: 280px;
   background: linear-gradient(180deg, #a8ff78, #78ffd6);
